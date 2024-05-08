@@ -13,7 +13,7 @@ export default class Content extends Component {
         <Grid container spacing={2} sx={{ pt: '24px', pb: '56px' }}>
           <Grid item xs={12}>
             <Adsense
-              style={{ display: 'block', width: '300px', height: '250px' }}
+              style={{ display: 'block' }}
               client='ca-pub-9643912173816808'
               slot='1480448417'
               format='auto'
